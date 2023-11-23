@@ -1,4 +1,5 @@
 /* Attempted to solve using Segment Tree */
+/* 67.0 / 100.0 */
 
 #include <iostream>
 #include <algorithm>
