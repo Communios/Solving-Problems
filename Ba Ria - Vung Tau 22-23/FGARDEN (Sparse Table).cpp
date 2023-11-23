@@ -1,4 +1,5 @@
 /* Sparse Table initially succeeded. */
+/* 67.0 / 100.0 */
 
 #include <iostream>
 #include <algorithm>
